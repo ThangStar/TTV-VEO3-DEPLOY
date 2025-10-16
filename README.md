@@ -2,7 +2,7 @@
 
 Công cụ tạo video AI tự động từ hình ảnh sử dụng VEO3 API với giao diện đồ họa.
 
-![ic_launcher](https://github.com/user-attachments/assets/5421df83-53ee-45ac-b582-3338b5678be4)
+![Whisk_2574534f37ab9eca6664168ee35c2f72dr](https://github.com/user-attachments/assets/87ed786d-4683-4318-8b24-45fefabe9f92)
 
 ## ⚙️ Cấu hình
 
